@@ -345,10 +345,12 @@ to{
 transform:scale(1);
 opacity:1;
 }
+}
   .video-special iframe{
     width: 100%;
     max-width: 700px;
     height: 400px;
 }
-}
+
+
 
